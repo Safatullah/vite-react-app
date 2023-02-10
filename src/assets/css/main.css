@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom Css */
+
+body {
+  display: grid;
+  place-items: center;
+  background-color: #b4a7d6;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.wrapper {
+}
